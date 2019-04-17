@@ -5,8 +5,7 @@ import time
 import caffe2.python.onnx.backend as backend
 import numpy as np
 import onnx
-import torch
-import torchvision
+
 
 PORT_NUMBER = 8080
 start = time.time()
